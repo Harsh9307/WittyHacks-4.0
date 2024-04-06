@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to MERN Stack",
+      "description": "A brief introduction to MERN stack development.",
+      "url": "https://example.com/videos/mern-intro.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with React",
+      "description": "Starting guide to React development.",
+      "url": "https://example.com/videos/react-start.mp4"
+    }
+  ]
+  
